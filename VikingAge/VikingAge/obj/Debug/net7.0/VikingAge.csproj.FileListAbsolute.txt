@@ -1,0 +1,15 @@
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\bin\Debug\net7.0\VikingAge.exe
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\bin\Debug\net7.0\VikingAge.deps.json
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\bin\Debug\net7.0\VikingAge.runtimeconfig.json
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\bin\Debug\net7.0\VikingAge.dll
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\bin\Debug\net7.0\VikingAge.pdb
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\VikingAge.csproj.AssemblyReference.cache
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\VikingAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\VikingAge.AssemblyInfoInputs.cache
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\VikingAge.AssemblyInfo.cs
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\VikingAge.csproj.CoreCompileInputs.cache
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\VikingAge.dll
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\refint\VikingAge.dll
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\VikingAge.pdb
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\VikingAge.genruntimeconfig.cache
+C:\Users\josef\OneDrive\Projekty\C#\VikingAge\VikingAge\obj\Debug\net7.0\ref\VikingAge.dll
