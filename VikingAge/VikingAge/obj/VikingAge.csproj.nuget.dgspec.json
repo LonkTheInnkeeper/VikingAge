@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josef\\OneDrive\\Projekty\\C#\\VikingAge\\VikingAge\\VikingAge.csproj": {}
+    "C:\\Users\\josefk\\OneDrive\\Projekty\\C#\\VikingAgeGit\\VikingAge\\VikingAge\\VikingAge\\VikingAge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josef\\OneDrive\\Projekty\\C#\\VikingAge\\VikingAge\\VikingAge.csproj": {
+    "C:\\Users\\josefk\\OneDrive\\Projekty\\C#\\VikingAgeGit\\VikingAge\\VikingAge\\VikingAge\\VikingAge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josef\\OneDrive\\Projekty\\C#\\VikingAge\\VikingAge\\VikingAge.csproj",
+        "projectUniqueName": "C:\\Users\\josefk\\OneDrive\\Projekty\\C#\\VikingAgeGit\\VikingAge\\VikingAge\\VikingAge\\VikingAge.csproj",
         "projectName": "VikingAge",
-        "projectPath": "C:\\Users\\josef\\OneDrive\\Projekty\\C#\\VikingAge\\VikingAge\\VikingAge.csproj",
-        "packagesPath": "C:\\Users\\josef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josef\\OneDrive\\Projekty\\C#\\VikingAge\\VikingAge\\obj\\",
+        "projectPath": "C:\\Users\\josefk\\OneDrive\\Projekty\\C#\\VikingAgeGit\\VikingAge\\VikingAge\\VikingAge\\VikingAge.csproj",
+        "packagesPath": "C:\\Users\\josefk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josefk\\OneDrive\\Projekty\\C#\\VikingAgeGit\\VikingAge\\VikingAge\\VikingAge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\josef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\josefk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,7 @@
 ﻿using VikingAge.Core.Manager;
 
 namespace VikingAge.Core
-{
+{   // What a change
     static class Tools
     {
         public static int NumberSellection(string number, int range)
