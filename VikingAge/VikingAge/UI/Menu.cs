@@ -1,15 +1,18 @@
 ﻿using VikingAge.Core;
-using VikingAge.Core.Engines;
-using VikingAge.Core.Manager;
+using VikingAge.Core.Utilities;
 
 namespace VikingAge.UI
 {
-
     internal class Menu: GameManager
     {
         GameLogic gameLogic = new GameLogic();
         VillageEngine village = new VillageEngine();
         VillagersEngine villagers = new VillagersEngine();
+
+        public void StartGame()
+        {
+            Load();
+        }
 
         public void MainMenu()
         {
