@@ -64,7 +64,7 @@ namespace VikingAge.Core
 
         // Villager constructor
         // If the game starts fresh, new Villagers don't have parents.
-        public void MakeVillager(Villager? mother = null, Villager? father = null)
+        public Villager MakeVillager(Villager? mother = null, Villager? father = null)
         {
             Villager villager = new Villager();
             villager.Name = Characters.Count.ToString();    // Temporary name. Waiting for a list of names
@@ -73,7 +73,9 @@ namespace VikingAge.Core
             villager.Mother = mother;
             villager.Father = father;
             villager.Profession = SetProfession(villager);
-            villager.Residence = SetResidence(villager);
+            //villager.Residence = SetResidence(villager);
+
+            return villager;
         }
 
         // Choose a residence of parents

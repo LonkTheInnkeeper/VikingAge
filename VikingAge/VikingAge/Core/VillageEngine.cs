@@ -151,7 +151,9 @@ namespace VikingAge.Core
 
         // All of these bellow are constructors for buidings
         // Note for myself: You decided It's more comfortable to have all buildings constructors here in one place.
-        // Don't think about it again
+        //                  Don't think about it again
+
+        // TODO: Assign prices for buildings
         private Farm ConstructFarm()
         {
             Farm farm = new Farm();
@@ -188,7 +190,7 @@ namespace VikingAge.Core
             return mine;
         }
 
-        private House ConstructHouse()
+        public House ConstructHouse()
         {
             House house = new House();
             house.Name = $"House {houses.Count + 1}";

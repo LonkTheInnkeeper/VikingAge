@@ -2,7 +2,7 @@
 
 Menu menu = new Menu();
 
-menu.StartGame();
+menu.StartGame(menu);
 while (true)
 {
     menu.MainMenu();

@@ -5,13 +5,13 @@ namespace VikingAge.UI
 {
     internal class Menu: GameManager
     {
-        GameLogic gameLogic = new GameLogic();
-        VillageEngine village = new VillageEngine();
-        VillagersEngine villagers = new VillagersEngine();
+        public GameLogic GameLogic { get; set; } = new();
+        public VillagersEngine VillagersEngine { get; set; } = new();
+        public VillageEngine VillageEngine { get; set; } = new();
 
-        public void StartGame()
+        public void StartGame(Menu menu)
         {
-            Load();
+            Load(menu, VillagersEngine, VillageEngine);
         }
 
         public void MainMenu()
@@ -34,7 +34,7 @@ namespace VikingAge.UI
                 case 1: Village(); break;
                 case 2: Villagers(); break;
                 case 3: Statistics(); break;
-                case 4: gameLogic.NextYear(); break;
+                case 4: GameLogic.NextYear(); break;
             }
         }
 
@@ -53,8 +53,8 @@ namespace VikingAge.UI
             switch (choice)
             {
                 case 0: break;
-                case 1: village.VillageOverview(); break;
-                case 2: village.Build(); break;
+                case 1: VillageEngine.VillageOverview(); break;
+                case 2: VillageEngine.Build(); break;
             }
         }
 
@@ -73,7 +73,7 @@ namespace VikingAge.UI
             switch (choice)
             {
                 case 0: break;
-                case 1: villagers.VillagersOverview(); break;
+                case 1: VillagersEngine.VillagersOverview(); break;
             }
         }
     }
